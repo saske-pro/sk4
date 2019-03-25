@@ -1,5 +1,5 @@
 owner=468836034185265162
-prefix=!
+prefix=4
 game=! SK ❦ | 4play
 stayinchannel=true
 songinstatus=false
