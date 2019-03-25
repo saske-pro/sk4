@@ -1,6 +1,6 @@
 owner=516473846983950336
 prefix=!
-game=Break | !play
+game=! SK ❦ | 4play
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTQzNTQ1MDgzMTM2NDQyMzcz.D3p-Rw.V30dbIdwLRc3DjJ_aPvDRltXF3E
