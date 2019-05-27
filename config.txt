@@ -1,6 +1,6 @@
 owner=468836034185265162
 prefix=4
-game=!KD | 4play
+game=4play
 stayinchannel=true
 songinstatus=false
 token=NTQzNTQ1MDgzMTM2NDQyMzcz.D3p-Rw.V30dbIdwLRc3DjJ_aPvDRltXF3E
